@@ -8,3 +8,6 @@
 4. Cấn Minh Hiển - 22BI13154
 5. Nguyễn Quang Hưng - 22BI13184
 6. Nguyễn Thế Khải - 22BI13201
+
+#Dataset
+Link to the data set: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
